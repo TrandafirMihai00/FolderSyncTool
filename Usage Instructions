@@ -1,0 +1,1 @@
+Usage: Navigate to the FolderSyncTool.exe in cmd and run FolderSyncTool.exe <sourcePath> <replicaPath> <syncInterval> <logFilePath> ;
