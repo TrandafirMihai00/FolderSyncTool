@@ -1,0 +1,28 @@
+D:\New folder\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.exe
+D:\New folder\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.deps.json
+D:\New folder\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.runtimeconfig.json
+D:\New folder\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.dll
+D:\New folder\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.pdb
+D:\New folder\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.AssemblyInfoInputs.cache
+D:\New folder\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.AssemblyInfo.cs
+D:\New folder\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.csproj.CoreCompileInputs.cache
+D:\New folder\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.dll
+D:\New folder\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\refint\FolderSyncTool.dll
+D:\New folder\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.pdb
+D:\New folder\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.genruntimeconfig.cache
+D:\New folder\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\ref\FolderSyncTool.dll
+D:\Projects\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.exe
+D:\Projects\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.deps.json
+D:\Projects\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.runtimeconfig.json
+D:\Projects\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.dll
+D:\Projects\FolderSyncTool\FolderSyncTool\bin\Debug\net6.0\FolderSyncTool.pdb
+D:\Projects\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.AssemblyInfoInputs.cache
+D:\Projects\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.AssemblyInfo.cs
+D:\Projects\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.csproj.CoreCompileInputs.cache
+D:\Projects\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.dll
+D:\Projects\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\refint\FolderSyncTool.dll
+D:\Projects\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.pdb
+D:\Projects\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\FolderSyncTool.genruntimeconfig.cache
+D:\Projects\FolderSyncTool\FolderSyncTool\obj\Debug\net6.0\ref\FolderSyncTool.dll
